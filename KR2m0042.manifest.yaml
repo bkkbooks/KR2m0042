@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR2m0042/v1
+canonical_location: https://kanripo.org/bkk/KR2m0042/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 北郊配位尊西向議
+  date: '2015-08-24 22:52:30.137650'
+  source:
+    repository: kanripo
+    path: KR2m0042
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2m0042_000.yaml, hash: 'sha256:44065053b9d57129b6034f2254e7268ce45fb4fdb050af7aaff6b0193e4e39a4'}
+  - {seq: 1, filename: KR2m0042_001.yaml, hash: 'sha256:a5e569c59a8acb2b9b4a345123b3db5bf1f11a1d2d78ec917a6b5757a7a98134'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2m0042_000.markers.yaml, hash: 'sha256:a2020e35d60eeaa08eb80b8e2cc552d2b3f4aa231cc954bec05f1b27ea677144'}
+  - {seq: 1, role: markers, filename: assets/KR2m0042_001.markers.yaml, hash: 'sha256:25ffa286541385a1e8718aa6719d4e809b7f2ffb1fbd3cf355e422b0d91edbdb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2m0042_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 533
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2m0042_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 5912
+  label: 北郊配位尊西向議
+  type: section
+  level: 1
+hash: sha256:ac2aa76a9a60f74d18e2390f72498fdb2ffca85b7778c4c9769845ea53659ccb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

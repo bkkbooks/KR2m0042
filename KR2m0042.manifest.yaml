@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2m0042_000.yaml, hash: 'sha256:44065053b9d57129b6034f2254e7268ce45fb4fdb050af7aaff6b0193e4e39a4'}
   - {seq: 1, filename: KR2m0042_001.yaml, hash: 'sha256:9a29888aca8f6e6d3cb5d68b98bf3d24f8b4ca74361d45d8362c9b63ab3fc3e7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2m0042_000.markers.yaml, hash: 'sha256:71cfcd8d056800553210e57dd0483b4cd1dbb5b26b3a605120d9cbed73fc251d'}
-  - {seq: 1, role: markers, filename: assets/KR2m0042_001.markers.yaml, hash: 'sha256:9fb7c6c92b5859eb21765177998d8f0612ccc74ac6b49b08259534cae978b683'}
+  - {seq: 0, role: markers, filename: assets/KR2m0042_000.markers.yaml, hash: 'sha256:7199e9e83f5926902f88f39f5e83e88ded81053cf4dbcd4288c98c5df951a548'}
+  - {seq: 1, role: markers, filename: assets/KR2m0042_001.markers.yaml, hash: 'sha256:6a1ebecb203c353008fcb761f2c81c2f9238a5fd934a72e4cb0d06686325fb89'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 北郊配位尊西向議
   type: section
   level: 1
-hash: sha256:95ced53b0247130d06b4197d699c170c684ee9400087d99db350acd92dd9e335
+hash: sha256:9be9f4562b3f3ea2b2fe8c7653c0fcfdac24f27bd4b837375500dc04bcbf27f4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
